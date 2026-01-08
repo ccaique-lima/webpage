@@ -15,7 +15,4 @@ Caique is an electronics engineer who graduated from [UNISAL](https://unisal.br)
 
 Since 2017, he has been working with scientific research and teaching, funded by UNISAL (2017, 2018 and 2019), [CAPES](https://www.gov.br/capes/pt-br) (2021 and 2022) and [FUNCAMP](https://www.funcamp.unicamp.br/portal/) (since 2022).
 
-In his master's research, he worked with PPG signals, motion artifact removal, machine learning, signal processing and pulse oximetry. His doctoral research focuses on explainable artificial intelligence (XAI) in wearables, specifically on the Samsung Galaxy Wearables.
-
-He was born in Campinas-SP and since 1994 he has learned incredible things. His great passions are Brazil, books, microcontrollers, family&friends and [GFC](https://www.guaranifc.com.br/)! 😎
-
+In his master's research, he worked with PPG signals, motion artifact removal, machine learning, signal processing and pulse oximetry. His doctoral research focuses on the development of machine learning algorithms and digital signal processing, with a focus on healthcare applications. His research interests include Health 4.0, machine learning, and wearable devices.
