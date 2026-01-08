@@ -27,7 +27,7 @@ title: Tiny CV
 ## <b>Professional Experience</b>
 
 ### Unicamp Development Foundation – FUNCAMP, 2022-present
-##### PhD Candidate in Electrical Engineering and Explainable Artificial Intelligence (XAI) Researcher at Viva-Bem Project in partnership with Samsung.
+##### PhD Candidate in Electrical Engineering and Explainable Artificial Intelligence (XAI) Researcher at Viva Bem: Center for Artificial Intelligence Applied to Health and Well-Being, supported by FAPESP, Samsung, and Unicamp.
 
 ### Coordination for the Improvement of Higher Education Personnel – CAPES, 2021-2022
 ##### M.Eng. Student and PESCD Tutor
